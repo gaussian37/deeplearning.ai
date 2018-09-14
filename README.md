@@ -1,6 +1,6 @@
 ﻿# deeplearning.ai
 
-# Coursera Deeplearning.ai programming assignment archive.
+Coursera [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning) programming assignment archive.
 
 # 1. Neural Networks and Deep Learning
 
