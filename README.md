@@ -3,8 +3,7 @@
 Coursera [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning) programming assignment archive.
 
 # 1. Neural Networks and Deep Learning
-
-## week2. Python Basics with numpy (optional)
+## [Python Basics with numpy (optional)](https://github.com/gaussian37/deeplearning.ai/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Python%20Basics%20With%20Numpy.ipynb)
 
 Welcome to your first (Optional) programming exercise of the deep learning specialization. In this assignment you will:
 
